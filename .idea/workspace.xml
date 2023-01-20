@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1c00847-7777-4332-9537-cd6c2a45a694" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/nus/ArraySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nus/CollectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nus/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nus/ConcurrentHashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nus/HashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nus/HashTableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nus/ReadFromCSV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/nus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nus/Main.java" afterDir="false" />
     </list>
@@ -38,7 +40,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -62,5 +65,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nus/ReadFromCSV.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
